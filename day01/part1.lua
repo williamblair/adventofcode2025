@@ -1,5 +1,3 @@
--- day01.lua
-
 function calcPassword(seqArr)
     local dialPos = 50
     local totalNumPos = 100
